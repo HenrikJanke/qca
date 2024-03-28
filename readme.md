@@ -16,7 +16,7 @@ The program utilizes the Model–View–Controller (MVC) design pattern to creat
 ## Sample plots
 <p float="center">
     <img src="/documentation/graphics/Total Occurences.png" width="400" /> 
-  <img src="/documentation/graphics/Verlauf der Bewertungsverteilung Außen- und Sicherheitspolitisch.png" width="500" />
+  <img src="/documentation/graphics/Bewertungsverteilung.png" width="500" />
 </p>
 
 # Using the Program
